@@ -15,3 +15,4 @@ This repository contains my daily learning notes.<br>
 
 2026-AUG-12 : ROS2 Topic, Service, Action, DDS middleware, QoS policies<br>
 
+2026-AUG-13 : ROS2 launch, YAML, CMakeLists build-up
