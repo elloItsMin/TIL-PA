@@ -17,8 +17,10 @@ This repository contains my daily learning notes.<br>
 
 2026-AUG-13 : ROS2 launch, YAML, CMakeLists build-up<br>
 
-2026-AUG-14 : RViz2, rosbag2 trial - but failed<br>
+2026-AUG-14 : RViz2, rosbag2<br>
 
 2026-AUG-18 : Matrix multiplication, Dot product, Cross product, Rank<br>
 
-2026-AUG-19 : Mathematics for Forward & Inverse Kinematics; Jacobian<br>
+2026-AUG-19 : Rotation matrix, Determinants, Gram-Schmidt orthogonalization, Jacobian<br>
+
+2026-AUG-20 : Transformation matrix, Gaussian elimination, solving linear equations<br>
