@@ -24,3 +24,5 @@ This repository contains my daily learning notes.<br>
 2026-AUG-19 : Rotation matrix, Determinants, Gram-Schmidt orthogonalization, Jacobian<br>
 
 2026-AUG-20 : Transformation matrix, Gaussian elimination, solving linear equations<br>
+
+2026-AUG-21 : Quaternions<br>
