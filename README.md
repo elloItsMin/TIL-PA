@@ -28,3 +28,5 @@ This repository contains my daily learning notes.<br>
 2026-AUG-21 : Quaternions<br>
 
 2026-AUG-24 : Eigenvalues and eigenvector<br>
+
+2026-AUG-25 : Hierarchy in compute allocation; Embedded (MCU), Edge AI, Cloud
