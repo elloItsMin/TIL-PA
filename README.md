@@ -30,3 +30,5 @@ This repository contains my daily learning notes.<br>
 2026-AUG-24 : Eigenvalues and eigenvector<br>
 
 2026-AUG-25 : Hierarchy in compute allocation; Embedded (MCU), Edge AI, Cloud
+
+2026-AUG-26 : Remote Access (SSH) & Deterministic Device Mapping (udev)
