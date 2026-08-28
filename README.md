@@ -33,4 +33,6 @@ This repository contains my daily learning notes.
 
 2026-AUG-26 : Remote Access (SSH) & Deterministic Device Mapping (udev)
 
-2026-AUG-27 : Implement 3D Rotation Matrices with Numpy
+2026-AUG-27 : Implement 3D Rotation Matrices Operations with Numpy
+
+2026-AUG-28 : Implement Row Echelon Form function with Numpy
