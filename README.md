@@ -38,4 +38,6 @@ This repository contains my daily learning notes.
 
 [DAY 018] 2026-AUG-28 : Implement Row Echelon Form function with Numpy
 
-[DAY 019] 2026-AUG-28 : Implement Gram-Schmidt Algorithm with Numpy
+[DAY 019] 2026-AUG-31 : Implement Gram-Schmidt Algorithm with Numpy
+
+[DAY 020] 2026-SEP-01 : On Matrix's Condition Number
