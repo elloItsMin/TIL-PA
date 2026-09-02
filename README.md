@@ -41,3 +41,5 @@ This repository contains my daily learning notes.
 [DAY 019] 2026-AUG-31 : Implement Gram-Schmidt Algorithm with Numpy
 
 [DAY 020] 2026-SEP-01 : On Matrix's Condition Number
+
+[DAY 021] 2026-SEP-02 : Implement Homogeneous Transformation with Numpy
