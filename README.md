@@ -43,3 +43,5 @@ This repository contains my daily learning notes.
 [DAY 020] 2026-SEP-01 : On Matrix's Condition Number
 
 [DAY 021] 2026-SEP-02 : Implement Homogeneous Transformation with Numpy
+
+[DAY 022] 2026-SEP-03 : Implement Least-Squares Calibration with Numpy
