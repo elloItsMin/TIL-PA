@@ -44,4 +44,6 @@ This repository contains my daily learning notes.
 
 [DAY 021] 2026-SEP-02 : Implement Homogeneous Transformation with Numpy
 
-[DAY 022] 2026-SEP-03 : Implement Least-Squares Calibration with Numpy
+[DAY 022] 2026-SEP-03 : Implement Least-Squares Function with Numpy
+
+[DAY 023] 2026-SEP-04 : Implement Coordinate Transformation Chain with Numpy
