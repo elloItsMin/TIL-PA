@@ -47,3 +47,5 @@ This repository contains my daily learning notes.
 [DAY 022] 2026-SEP-03 : Implement Least-Squares Function with Numpy
 
 [DAY 023] 2026-SEP-04 : Implement Coordinate Transformation Chain with Numpy
+
+[DAY 024] 2026-SEP-07 : Won 1st place at informal Kahoot competition
