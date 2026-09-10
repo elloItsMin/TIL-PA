@@ -52,4 +52,6 @@ This repository contains my daily learning notes.
 
 [DAY 025] 2026-SEP-08 : Implement Gaussian Elimination algorithm with Numpy
 
-[DAY 026] 2026-SEP-08 : Implement Gauss-Jordan Elimination algorithm with Numpy
+[DAY 026] 2026-SEP-09 : Implement Gauss-Jordan Elimination algorithm with Numpy
+
+[DAY 027] 2026-SEP-10 : On QR Decomposition
