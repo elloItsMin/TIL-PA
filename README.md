@@ -55,3 +55,5 @@ This repository contains my daily learning notes.
 [DAY 026] 2026-SEP-09 : Implement Gauss-Jordan Elimination algorithm with Numpy
 
 [DAY 027] 2026-SEP-10 : On np.einsum() function for batch matrix operations
+
+[DAY 028] 2026-SEP-11 : Control System: open-loop, closed-loop, transfer functions
