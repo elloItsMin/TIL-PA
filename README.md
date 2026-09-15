@@ -58,4 +58,6 @@ This repository contains my daily learning notes.
 
 [DAY 028] 2026-SEP-11 : Control System; open-loop, closed-loop, transfer functions
 
-[DAY 029] 2026-SEP-14 : Transfer Function and Pole
+[DAY 029] 2026-SEP-14 : Feedback Stability; closed-loop transfer function, pole migration
+
+[DAY 030] 2026-SEP-15 : PID Control and Tuning; hands-on experiment with ROBOTIS Dynamixel
