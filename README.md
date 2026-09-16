@@ -61,3 +61,5 @@ This repository contains my daily learning notes.
 [DAY 029] 2026-SEP-14 : Feedback Stability; closed-loop transfer function, pole migration
 
 [DAY 030] 2026-SEP-15 : PID Control and Tuning; hands-on experiment with ROBOTIS Dynamixel
+
+[DAY 031] 2026-SEP-16 : PID Control and Tuning; focus on D(Derivative)
