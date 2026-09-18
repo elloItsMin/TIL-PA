@@ -63,3 +63,7 @@ This repository contains my daily learning notes.
 [DAY 030] 2026-SEP-15 : PID Control and Tuning; hands-on experiment with ROBOTIS Dynamixel
 
 [DAY 031] 2026-SEP-16 : PID Control and Tuning; focus on D(Derivative)
+
+[DAY 032] 2026-SEP-17 : PID Control and Tuning; discrete control
+
+[DAY 033] 2026-SEP-18 : MCU; hard-real-time control
