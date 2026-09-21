@@ -48,7 +48,7 @@ This repository contains my daily learning notes.
 
 [DAY 023] 2026-SEP-04 : Implement Coordinate Transformation Chain with Numpy
 
-[DAY 024] 2026-SEP-07 : Won 1st place at informal Kahoot competition
+[DAY 024] 2026-SEP-07 : Won 1st place at informal Kahoot competition (Linear Algebra)
 
 [DAY 025] 2026-SEP-08 : Implement Gaussian Elimination algorithm with Numpy
 
@@ -67,3 +67,5 @@ This repository contains my daily learning notes.
 [DAY 032] 2026-SEP-17 : PID Control and Tuning; discrete control
 
 [DAY 033] 2026-SEP-18 : MCU; hard-real-time control
+
+[DAY 034] 2026-SEP-21 : Won 2nd place at informal Kahoot competition (PID Control)
