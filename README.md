@@ -69,3 +69,5 @@ This repository contains my daily learning notes.
 [DAY 033] 2026-SEP-18 : MCU; hard-real-time control
 
 [DAY 034] 2026-SEP-21 : Won 2nd place at informal Kahoot competition (PID Control)
+
+[DQY 035] 2026-SEP-22 : Raspberry Pi, OpenCR Setup
